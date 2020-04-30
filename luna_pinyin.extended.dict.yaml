@@ -36,4 +36,5 @@ import_tables:
   - luna_pinyin.computer
   - luna_pinyin.place
   - luna_pinyin.shopping
+  - luna_pinyin.physics
 ...
